@@ -1,2 +1,4 @@
 # Python-Mundo-2
-Python-Mundo-2-Curso-em-Vídeo
+
+ºObjectivos:
+1º Resolver os Exercícios do Mundo 2
